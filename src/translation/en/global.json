@@ -1,0 +1,15 @@
+{
+    "name":"Name",
+    "signIn":"Sign In",
+    "master":"Master",
+    "welcomeMaster":"Welcome master: ",
+    "heigh":"Heigh",
+    "width":"Width",
+    "details":"Details",
+    "description":"Description",
+    "abilities":"Abilities",
+    "images":"Images",
+    "close":"Close",
+    "logOut":"Log Out",
+    "msgAlert":"Master name is obligate"
+}

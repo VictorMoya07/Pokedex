@@ -1,0 +1,16 @@
+{
+    "name":"Nombre",
+    "signIn":"Entrar",
+    "master":"Maestro",
+    "welcomeMaster":"Bienvenido maestro: ",
+    "heigh":"Altura",
+    "width":"Ancho",
+    "details": "Detalles",
+    "description":"Descripcion",
+    "abilities":"Habilidades",
+    "images":"Imagenes",
+    "close":"Cerrar",
+    "logOut":"Salir",
+    "msgAlert":"El nombre de maestro es obligatorio"
+
+}
